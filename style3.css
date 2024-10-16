@@ -1,0 +1,39 @@
+h1{
+			word-spacing:750px;
+			background-color: #F8C8DC;
+		}
+
+h2{
+	color: deeppink;
+	background-color: #F8C8DC;
+}
+
+a{
+	color: hotpink;
+}
+
+body{
+	background-color: deeppink;
+}
+
+.container1{
+	display: flex;
+	margin: auto;
+	column-gap: 10px;
+}
+
+.container2{
+	display: flex;
+	margin: auto;
+	column-gap: 10px;
+}
+
+.container3{
+	display: flex;
+	margin: auto;
+	column-gap: 10px;
+}
+
+.container4{
+	background-color: #F8C8DC;
+}

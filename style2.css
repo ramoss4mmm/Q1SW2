@@ -1,0 +1,33 @@
+.container1{
+	background-color: orange;
+}
+.container2{
+	display: flex;
+	column-gap: 20px;
+	justify-content: center;
+}
+
+.container3{
+	display: flex;
+	column-gap: 20px;
+	justify-content: center;
+}
+
+.container4{
+	background-color: orange;
+	width: 300px;
+	padding: 30px;
+	margin: auto;
+	box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
+	border: 5px black;
+}
+
+.container5{
+	background-color: orange;
+}
+
+body{
+	background-image: url(https://i.pinimg.com/564x/54/7d/3d/547d3d88aced505052528afe05fdefde.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
